@@ -1,0 +1,7 @@
+D:\AprendendoCSharp\6-AtribuiçoesDeVariaveis\bin\Debug\6-AtribuiçoesDeVariaveis.exe.config
+D:\AprendendoCSharp\6-AtribuiçoesDeVariaveis\bin\Debug\6-AtribuiçoesDeVariaveis.exe
+D:\AprendendoCSharp\6-AtribuiçoesDeVariaveis\bin\Debug\6-AtribuiçoesDeVariaveis.pdb
+D:\AprendendoCSharp\6-AtribuiçoesDeVariaveis\obj\Debug\6-AtribuiçoesDeVariaveis.csprojAssemblyReference.cache
+D:\AprendendoCSharp\6-AtribuiçoesDeVariaveis\obj\Debug\6-AtribuiçoesDeVariaveis.csproj.CoreCompileInputs.cache
+D:\AprendendoCSharp\6-AtribuiçoesDeVariaveis\obj\Debug\6-AtribuiçoesDeVariaveis.exe
+D:\AprendendoCSharp\6-AtribuiçoesDeVariaveis\obj\Debug\6-AtribuiçoesDeVariaveis.pdb
